@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPA_TacticsMovement.CSharp", "GPA_TacticsMovement.CSharp.csproj", "{DDD209B3-6B7E-6D59-244C-1DA262A2726E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDD209B3-6B7E-6D59-244C-1DA262A2726E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD209B3-6B7E-6D59-244C-1DA262A2726E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD209B3-6B7E-6D59-244C-1DA262A2726E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD209B3-6B7E-6D59-244C-1DA262A2726E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

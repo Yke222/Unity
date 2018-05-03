@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\luiz_\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_GPA_TacticsMovement.848510729.00" t="ExcludeRecursive" />
+    <e p="C:\Users\luiz_\Documents\unity\GPA_TacticsMovement" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="BarCameraScript.cs" t="Include" />
+        <e p="HBIndicatorScript.cs" t="Include" />
+        <e p="HpLossScript.cs" t="Include" />
+        <e p="MenuScript.cs" t="Include" />
+        <e p="NPCMove.cs" t="Include" />
+        <e p="PlayerMove.cs" t="Include" />
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="TacticsCamera.cs" t="Include" />
+        <e p="TacticsMove.cs" t="Include" />
+        <e p="Tile.cs" t="Include" />
+        <e p="TurnManager.cs" t="Include" />
+      </e>
+      <e p="GPA_TacticsMovement.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
